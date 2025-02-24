@@ -1,1 +1,104 @@
-{"kind":"symbol","identifier":{"url":"doc:\/\/Hexa\/documentation\/Hexa","interfaceLanguage":"swift"},"schemaVersion":{"patch":0,"minor":3,"major":0},"hierarchy":{"paths":[[]]},"metadata":{"symbolKind":"module","modules":[{"name":"Hexa"}],"role":"collection","title":"Hexa","externalID":"Hexa","roleHeading":"Framework"},"sections":[],"topicSections":[{"generated":true,"title":"Classes","identifiers":["doc:\/\/Hexa\/documentation\/Hexa\/Hexa"],"anchor":"Classes"}],"variants":[{"traits":[{"interfaceLanguage":"swift"}],"paths":["\/documentation\/hexa"]}],"references":{"doc://Hexa/documentation/Hexa/Hexa":{"title":"Hexa","kind":"symbol","role":"symbol","fragments":[{"kind":"keyword","text":"class"},{"text":" ","kind":"text"},{"kind":"identifier","text":"Hexa"}],"type":"topic","url":"\/documentation\/hexa\/hexa","abstract":[{"type":"text","text":"Hexa"}],"navigatorTitle":[{"text":"Hexa","kind":"identifier"}],"identifier":"doc:\/\/Hexa\/documentation\/Hexa\/Hexa"},"doc://Hexa/documentation/Hexa":{"abstract":[],"kind":"symbol","identifier":"doc:\/\/Hexa\/documentation\/Hexa","role":"collection","title":"Hexa","url":"\/documentation\/hexa","type":"topic"}}}
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Hexa\/documentation\/Hexa"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "Hexa",
+    "modules" : [
+      {
+        "name" : "Hexa"
+      }
+    ],
+    "role" : "collection",
+    "roleHeading" : "Framework",
+    "symbolKind" : "module",
+    "title" : "Hexa"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Classes",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Hexa\/documentation\/Hexa\/Hexa"
+      ],
+      "title" : "Classes"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/hexa"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Hexa/documentation/Hexa": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "Hexa",
+  "type" : "topic",
+  "url" : "\/documentation\/hexa"
+},
+"doc://Hexa/documentation/Hexa/Hexa": {
+  "abstract" : [
+    {
+      "text" : "Hexa",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Hexa"
+    }
+  ],
+  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Hexa"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Hexa",
+  "type" : "topic",
+  "url" : "\/documentation\/hexa\/hexa"
+}
+}
+}

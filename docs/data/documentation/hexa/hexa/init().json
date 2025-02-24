@@ -1,1 +1,160 @@
-{"kind":"symbol","abstract":[{"type":"text","text":"Consssssstructor"}],"hierarchy":{"paths":[["doc:\/\/Hexa\/documentation\/Hexa","doc:\/\/Hexa\/documentation\/Hexa\/Hexa"]]},"identifier":{"interfaceLanguage":"swift","url":"doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/init()"},"schemaVersion":{"minor":3,"major":0,"patch":0},"metadata":{"roleHeading":"Initializer","title":"init()","fragments":[{"kind":"identifier","text":"init"},{"text":"()","kind":"text"}],"modules":[{"name":"Hexa"}],"symbolKind":"init","externalID":"s:4HexaAACABycfc","role":"symbol"},"variants":[{"paths":["\/documentation\/hexa\/hexa\/init()"],"traits":[{"interfaceLanguage":"swift"}]}],"sections":[],"primaryContentSections":[{"declarations":[{"tokens":[{"text":"init","kind":"keyword"},{"kind":"text","text":"()"}],"languages":["swift"],"platforms":["macOS"]}],"kind":"declarations"}],"references":{"doc://Hexa/documentation/Hexa/Hexa/init()":{"type":"topic","kind":"symbol","abstract":[{"text":"Consssssstructor","type":"text"}],"title":"init()","url":"\/documentation\/hexa\/hexa\/init()","identifier":"doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/init()","fragments":[{"text":"init","kind":"identifier"},{"text":"()","kind":"text"}],"role":"symbol"},"doc://Hexa/documentation/Hexa/Hexa":{"title":"Hexa","kind":"symbol","role":"symbol","fragments":[{"kind":"keyword","text":"class"},{"text":" ","kind":"text"},{"kind":"identifier","text":"Hexa"}],"type":"topic","url":"\/documentation\/hexa\/hexa","abstract":[{"type":"text","text":"Hexa"}],"navigatorTitle":[{"text":"Hexa","kind":"identifier"}],"identifier":"doc:\/\/Hexa\/documentation\/Hexa\/Hexa"},"doc://Hexa/documentation/Hexa":{"abstract":[],"kind":"symbol","identifier":"doc:\/\/Hexa\/documentation\/Hexa","role":"collection","title":"Hexa","url":"\/documentation\/hexa","type":"topic"}}}
+{
+  "abstract" : [
+    {
+      "text" : "Consssssstructor",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Hexa\/documentation\/Hexa",
+        "doc:\/\/Hexa\/documentation\/Hexa\/Hexa"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/init()"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:4HexaAACABycfc",
+    "fragments" : [
+      {
+        "kind" : "identifier",
+        "text" : "init"
+      },
+      {
+        "kind" : "text",
+        "text" : "()"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "Hexa"
+      }
+    ],
+    "role" : "symbol",
+    "roleHeading" : "Initializer",
+    "symbolKind" : "init",
+    "title" : "init()"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "init"
+            },
+            {
+              "kind" : "text",
+              "text" : "()"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/hexa\/hexa\/init()"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Hexa/documentation/Hexa": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "Hexa",
+  "type" : "topic",
+  "url" : "\/documentation\/hexa"
+},
+"doc://Hexa/documentation/Hexa/Hexa": {
+  "abstract" : [
+    {
+      "text" : "Hexa",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Hexa"
+    }
+  ],
+  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Hexa"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Hexa",
+  "type" : "topic",
+  "url" : "\/documentation\/hexa\/hexa"
+},
+"doc://Hexa/documentation/Hexa/Hexa/init()": {
+  "abstract" : [
+    {
+      "text" : "Consssssstructor",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "()"
+    }
+  ],
+  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/init()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init()",
+  "type" : "topic",
+  "url" : "\/documentation\/hexa\/hexa\/init()"
+}
+}
+}

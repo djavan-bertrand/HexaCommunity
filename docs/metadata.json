@@ -1,1 +1,9 @@
-{"bundleIdentifier":"Hexa","schemaVersion":{"major":0,"patch":0,"minor":1},"bundleDisplayName":"Hexa"}
+{
+  "bundleDisplayName" : "Hexa",
+  "bundleIdentifier" : "Hexa",
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 1,
+    "patch" : 0
+  }
+}

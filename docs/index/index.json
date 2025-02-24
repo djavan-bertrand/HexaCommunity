@@ -1,1 +1,41 @@
-{"includedArchiveIdentifiers":["Hexa"],"interfaceLanguages":{"swift":[{"children":[{"title":"Classes","type":"groupMarker"},{"children":[{"title":"Initializers","type":"groupMarker"},{"path":"\/documentation\/hexa\/hexa\/init()","title":"init()","type":"init"}],"path":"\/documentation\/hexa\/hexa","title":"Hexa","type":"class"}],"path":"\/documentation\/hexa","title":"Hexa","type":"module"}]},"schemaVersion":{"major":0,"minor":1,"patch":2}}
+{
+  "includedArchiveIdentifiers" : [
+    "Hexa"
+  ],
+  "interfaceLanguages" : {
+    "swift" : [
+      {
+        "children" : [
+          {
+            "title" : "Classes",
+            "type" : "groupMarker"
+          },
+          {
+            "children" : [
+              {
+                "title" : "Initializers",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/hexa\/hexa\/init()",
+                "title" : "init()",
+                "type" : "init"
+              }
+            ],
+            "path" : "\/documentation\/hexa\/hexa",
+            "title" : "Hexa",
+            "type" : "class"
+          }
+        ],
+        "path" : "\/documentation\/hexa",
+        "title" : "Hexa",
+        "type" : "module"
+      }
+    ]
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 1,
+    "patch" : 2
+  }
+}
