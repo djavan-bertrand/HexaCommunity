@@ -1,0 +1,53 @@
+{
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/HexaCommunity\/documentation"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "collection",
+    "roleHeading" : "Package",
+    "title" : "HexaCommunity"
+  },
+  "references" : {
+    "doc:\/\/Hexa\/documentation\/Hexa" : {
+      "abstract" : [
+
+      ],
+      "identifier" : "doc:\/\/Hexa\/documentation\/Hexa",
+      "kind" : "symbol",
+      "role" : "collection",
+      "title" : "Hexa",
+      "type" : "topic",
+      "url" : "\/documentation\/hexa"
+    },
+    "doc:\/\/HexaUI\/documentation\/HexaUI" : {
+      "abstract" : [
+
+      ],
+      "identifier" : "doc:\/\/HexaUI\/documentation\/HexaUI",
+      "kind" : "symbol",
+      "role" : "collection",
+      "title" : "HexaUI",
+      "type" : "topic",
+      "url" : "\/documentation\/hexaui"
+    }
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/Hexa\/documentation\/Hexa",
+        "doc:\/\/HexaUI\/documentation\/HexaUI"
+      ]
+    }
+  ],
+  "topicSectionsStyle" : "detailedGrid"
+}

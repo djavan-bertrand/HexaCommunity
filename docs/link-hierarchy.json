@@ -1,24 +1,41 @@
 {
   "bundleID" : "Hexa",
   "nonSymbolPaths" : {
-    "0" : "\/tutorials\/Hexa",
-    "2" : "\/tutorials"
+    "2" : "\/tutorials",
+    "4" : "\/tutorials\/Hexa"
   },
   "pathHierarchy" : {
-    "articlesContainer" : 4,
+    "articlesContainer" : 0,
     "modules" : [
-      4
+      0
     ],
     "nodes" : [
       {
-        "name" : "Hexa"
+        "children" : [
+          {
+            "hash" : "7z1pi",
+            "kind" : "class",
+            "nodeID" : 1
+          }
+        ],
+        "name" : "Hexa",
+        "symbolID" : {
+          "interfaceLanguage" : "swift",
+          "precise" : "Hexa"
+        }
       },
       {
         "children" : [
           {
             "hash" : "3ft1o",
             "kind" : "init",
-            "nodeID" : 3
+            "nodeID" : 3,
+            "parameterTypes" : [
+
+            ],
+            "returnTypes" : [
+              ""
+            ]
           }
         ],
         "name" : "Hexa",
@@ -38,21 +55,10 @@
         }
       },
       {
-        "children" : [
-          {
-            "hash" : "7z1pi",
-            "kind" : "class",
-            "nodeID" : 1
-          }
-        ],
-        "name" : "Hexa",
-        "symbolID" : {
-          "interfaceLanguage" : "swift",
-          "precise" : "Hexa"
-        }
+        "name" : "Hexa"
       }
     ],
-    "tutorialContainer" : 0,
+    "tutorialContainer" : 4,
     "tutorialOverviewContainer" : 2
   },
   "version" : {
