@@ -23,6 +23,15 @@
                     "path" : "\/documentation\/hexa\/hexa\/init()",
                     "title" : "init()",
                     "type" : "init"
+                  },
+                  {
+                    "title" : "Instance Properties",
+                    "type" : "groupMarker"
+                  },
+                  {
+                    "path" : "\/documentation\/hexa\/hexa\/apublicproperty",
+                    "title" : "let aPublicProperty: String",
+                    "type" : "property"
                   }
                 ],
                 "path" : "\/documentation\/hexa\/hexa",

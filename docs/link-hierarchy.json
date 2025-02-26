@@ -1,51 +1,24 @@
 {
   "bundleID" : "Hexa",
   "nonSymbolPaths" : {
-    "2" : "\/tutorials",
-    "4" : "\/tutorials\/Hexa"
+    "1" : "\/tutorials\/Hexa",
+    "3" : "\/tutorials"
   },
   "pathHierarchy" : {
-    "articlesContainer" : 0,
+    "articlesContainer" : 5,
     "modules" : [
-      0
+      5
     ],
     "nodes" : [
       {
-        "children" : [
-          {
-            "hash" : "7z1pi",
-            "kind" : "class",
-            "nodeID" : 1
-          }
-        ],
-        "name" : "Hexa",
+        "name" : "aPublicProperty",
         "symbolID" : {
           "interfaceLanguage" : "swift",
-          "precise" : "Hexa"
+          "precise" : "s:4HexaAAC15aPublicPropertySSvp"
         }
       },
       {
-        "children" : [
-          {
-            "hash" : "3ft1o",
-            "kind" : "init",
-            "nodeID" : 3,
-            "parameterTypes" : [
-
-            ],
-            "returnTypes" : [
-              ""
-            ]
-          }
-        ],
-        "name" : "Hexa",
-        "symbolID" : {
-          "interfaceLanguage" : "swift",
-          "precise" : "s:4HexaAAC"
-        }
-      },
-      {
-        "name" : "tutorials"
+        "name" : "Hexa"
       },
       {
         "name" : "init()",
@@ -55,11 +28,50 @@
         }
       },
       {
-        "name" : "Hexa"
+        "name" : "tutorials"
+      },
+      {
+        "children" : [
+          {
+            "hash" : "3ft1o",
+            "kind" : "init",
+            "nodeID" : 2,
+            "parameterTypes" : [
+
+            ],
+            "returnTypes" : [
+              ""
+            ]
+          },
+          {
+            "hash" : "6pv2y",
+            "kind" : "property",
+            "nodeID" : 0
+          }
+        ],
+        "name" : "Hexa",
+        "symbolID" : {
+          "interfaceLanguage" : "swift",
+          "precise" : "s:4HexaAAC"
+        }
+      },
+      {
+        "children" : [
+          {
+            "hash" : "7z1pi",
+            "kind" : "class",
+            "nodeID" : 4
+          }
+        ],
+        "name" : "Hexa",
+        "symbolID" : {
+          "interfaceLanguage" : "swift",
+          "precise" : "Hexa"
+        }
       }
     ],
-    "tutorialContainer" : 4,
-    "tutorialOverviewContainer" : 2
+    "tutorialContainer" : 1,
+    "tutorialOverviewContainer" : 3
   },
   "version" : {
     "major" : 0,

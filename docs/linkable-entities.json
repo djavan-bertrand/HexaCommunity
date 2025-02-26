@@ -1,43 +1,5 @@
 [
   {
-    "availableLanguages" : [
-      "swift"
-    ],
-    "kind" : "org.swift.docc.kind.module",
-    "language" : "swift",
-    "path" : "\/documentation\/hexa",
-    "referenceURL" : "doc:\/\/Hexa\/documentation\/Hexa",
-    "title" : "Hexa",
-    "usr" : "Hexa"
-  },
-  {
-    "abstract" : [
-      {
-        "text" : "Consssssstructor",
-        "type" : "text"
-      }
-    ],
-    "availableLanguages" : [
-      "swift"
-    ],
-    "fragments" : [
-      {
-        "kind" : "keyword",
-        "text" : "init"
-      },
-      {
-        "kind" : "text",
-        "text" : "()"
-      }
-    ],
-    "kind" : "org.swift.docc.kind.initializer",
-    "language" : "swift",
-    "path" : "\/documentation\/hexa\/hexa\/init()",
-    "referenceURL" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/init()",
-    "title" : "init()",
-    "usr" : "s:4HexaAACABycfc"
-  },
-  {
     "abstract" : [
       {
         "text" : "Hexa",
@@ -67,5 +29,83 @@
     "referenceURL" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa",
     "title" : "Hexa",
     "usr" : "s:4HexaAAC"
+  },
+  {
+    "availableLanguages" : [
+      "swift"
+    ],
+    "kind" : "org.swift.docc.kind.module",
+    "language" : "swift",
+    "path" : "\/documentation\/hexa",
+    "referenceURL" : "doc:\/\/Hexa\/documentation\/Hexa",
+    "title" : "Hexa",
+    "usr" : "Hexa"
+  },
+  {
+    "abstract" : [
+      {
+        "text" : "Public property",
+        "type" : "text"
+      }
+    ],
+    "availableLanguages" : [
+      "swift"
+    ],
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "let"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "aPublicProperty"
+      },
+      {
+        "kind" : "text",
+        "text" : ": "
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:SS",
+        "text" : "String"
+      }
+    ],
+    "kind" : "org.swift.docc.kind.instanceProperty",
+    "language" : "swift",
+    "path" : "\/documentation\/hexa\/hexa\/apublicproperty",
+    "referenceURL" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty",
+    "title" : "aPublicProperty",
+    "usr" : "s:4HexaAAC15aPublicPropertySSvp"
+  },
+  {
+    "abstract" : [
+      {
+        "text" : "Consssssstructor",
+        "type" : "text"
+      }
+    ],
+    "availableLanguages" : [
+      "swift"
+    ],
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "init"
+      },
+      {
+        "kind" : "text",
+        "text" : "()"
+      }
+    ],
+    "kind" : "org.swift.docc.kind.initializer",
+    "language" : "swift",
+    "path" : "\/documentation\/hexa\/hexa\/init()",
+    "referenceURL" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/init()",
+    "title" : "init()",
+    "usr" : "s:4HexaAACABycfc"
   }
 ]
