@@ -1,6 +1,7 @@
 {
   "includedArchiveIdentifiers" : [
-    "Hexa"
+    "Hexa",
+    "HexaUI"
   ],
   "interfaceLanguages" : {
     "swift" : [
@@ -29,6 +30,38 @@
         ],
         "path" : "\/documentation\/hexa",
         "title" : "Hexa",
+        "type" : "module"
+      },
+      {
+        "children" : [
+          {
+            "title" : "Classes",
+            "type" : "groupMarker"
+          },
+          {
+            "children" : [
+              {
+                "title" : "Instance Properties",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/hexaui\/hexaui\/hexa",
+                "title" : "let hexa: Hexa",
+                "type" : "property"
+              },
+              {
+                "path" : "\/documentation\/hexaui\/hexaui\/hexacore",
+                "title" : "let hexaCore: HexaCore",
+                "type" : "property"
+              }
+            ],
+            "path" : "\/documentation\/hexaui\/hexaui",
+            "title" : "HexaUI",
+            "type" : "class"
+          }
+        ],
+        "path" : "\/documentation\/hexaui",
+        "title" : "HexaUI",
         "type" : "module"
       }
     ]

@@ -1,0 +1,104 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/HexaUI\/documentation\/HexaUI"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "HexaUI",
+    "modules" : [
+      {
+        "name" : "HexaUI"
+      }
+    ],
+    "role" : "collection",
+    "roleHeading" : "Framework",
+    "symbolKind" : "module",
+    "title" : "HexaUI"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Classes",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/HexaUI\/documentation\/HexaUI\/HexaUI"
+      ],
+      "title" : "Classes"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/hexaui"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://HexaUI/documentation/HexaUI": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/HexaUI\/documentation\/HexaUI",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "HexaUI",
+  "type" : "topic",
+  "url" : "\/documentation\/hexaui"
+},
+"doc://HexaUI/documentation/HexaUI/HexaUI": {
+  "abstract" : [
+    {
+      "text" : "HexaUI",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "HexaUI"
+    }
+  ],
+  "identifier" : "doc:\/\/HexaUI\/documentation\/HexaUI\/HexaUI",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "HexaUI"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "HexaUI",
+  "type" : "topic",
+  "url" : "\/documentation\/hexaui\/hexaui"
+}
+}
+}

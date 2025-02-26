@@ -1,0 +1,199 @@
+{
+  "abstract" : [
+    {
+      "text" : "Hexa core",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/HexaUI\/documentation\/HexaUI",
+        "doc:\/\/HexaUI\/documentation\/HexaUI\/HexaUI"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/HexaUI\/documentation\/HexaUI\/HexaUI\/hexaCore"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:6HexaUIAAC8hexaCore0aD0ADCvp",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "let"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "hexaCore"
+      },
+      {
+        "kind" : "text",
+        "text" : ": "
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:8HexaCoreAAC",
+        "text" : "HexaCore"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "HexaUI"
+      }
+    ],
+    "role" : "symbol",
+    "roleHeading" : "Instance Property",
+    "symbolKind" : "property",
+    "title" : "hexaCore"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "let"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "hexaCore"
+            },
+            {
+              "kind" : "text",
+              "text" : ": "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:8HexaCoreAAC",
+              "text" : "HexaCore"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/hexaui\/hexaui\/hexacore"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://HexaUI/documentation/HexaUI": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/HexaUI\/documentation\/HexaUI",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "HexaUI",
+  "type" : "topic",
+  "url" : "\/documentation\/hexaui"
+},
+"doc://HexaUI/documentation/HexaUI/HexaUI": {
+  "abstract" : [
+    {
+      "text" : "HexaUI",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "HexaUI"
+    }
+  ],
+  "identifier" : "doc:\/\/HexaUI\/documentation\/HexaUI\/HexaUI",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "HexaUI"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "HexaUI",
+  "type" : "topic",
+  "url" : "\/documentation\/hexaui\/hexaui"
+},
+"doc://HexaUI/documentation/HexaUI/HexaUI/hexaCore": {
+  "abstract" : [
+    {
+      "text" : "Hexa core",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "let"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "hexaCore"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:8HexaCoreAAC",
+      "text" : "HexaCore"
+    }
+  ],
+  "identifier" : "doc:\/\/HexaUI\/documentation\/HexaUI\/HexaUI\/hexaCore",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "hexaCore",
+  "type" : "topic",
+  "url" : "\/documentation\/hexaui\/hexaui\/hexacore"
+}
+}
+}

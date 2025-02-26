@@ -1,0 +1,63 @@
+{
+  "bundleID" : "Hexa",
+  "nonSymbolPaths" : {
+    "0" : "\/tutorials\/Hexa",
+    "2" : "\/tutorials"
+  },
+  "pathHierarchy" : {
+    "articlesContainer" : 4,
+    "modules" : [
+      4
+    ],
+    "nodes" : [
+      {
+        "name" : "Hexa"
+      },
+      {
+        "children" : [
+          {
+            "hash" : "3ft1o",
+            "kind" : "init",
+            "nodeID" : 3
+          }
+        ],
+        "name" : "Hexa",
+        "symbolID" : {
+          "interfaceLanguage" : "swift",
+          "precise" : "s:4HexaAAC"
+        }
+      },
+      {
+        "name" : "tutorials"
+      },
+      {
+        "name" : "init()",
+        "symbolID" : {
+          "interfaceLanguage" : "swift",
+          "precise" : "s:4HexaAACABycfc"
+        }
+      },
+      {
+        "children" : [
+          {
+            "hash" : "7z1pi",
+            "kind" : "class",
+            "nodeID" : 1
+          }
+        ],
+        "name" : "Hexa",
+        "symbolID" : {
+          "interfaceLanguage" : "swift",
+          "precise" : "Hexa"
+        }
+      }
+    ],
+    "tutorialContainer" : 0,
+    "tutorialOverviewContainer" : 2
+  },
+  "version" : {
+    "major" : 0,
+    "minor" : 1,
+    "patch" : 0
+  }
+}

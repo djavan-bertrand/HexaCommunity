@@ -1,0 +1,228 @@
+{
+  "abstract" : [
+    {
+      "text" : "Hexa",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/HexaUI\/documentation\/HexaUI",
+        "doc:\/\/HexaUI\/documentation\/HexaUI\/HexaUI"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/HexaUI\/documentation\/HexaUI\/HexaUI\/hexa"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:6HexaUIAAC4hexa0A0ADCvp",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "let"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "hexa"
+      },
+      {
+        "kind" : "text",
+        "text" : ": "
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:4HexaAAC",
+        "text" : "Hexa"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "HexaUI"
+      }
+    ],
+    "role" : "symbol",
+    "roleHeading" : "Instance Property",
+    "symbolKind" : "property",
+    "title" : "hexa"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "let"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "hexa"
+            },
+            {
+              "kind" : "text",
+              "text" : ": "
+            },
+            {
+              "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa",
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:4HexaAAC",
+              "text" : "Hexa"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/hexaui\/hexaui\/hexa"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Hexa/documentation/Hexa/Hexa": {
+  "abstract" : [
+    {
+      "text" : "Hexa",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Hexa"
+    }
+  ],
+  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Hexa",
+  "type" : "topic",
+  "url" : "\/documentation\/hexa\/hexa"
+},
+"doc://HexaUI/documentation/HexaUI": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/HexaUI\/documentation\/HexaUI",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "HexaUI",
+  "type" : "topic",
+  "url" : "\/documentation\/hexaui"
+},
+"doc://HexaUI/documentation/HexaUI/HexaUI": {
+  "abstract" : [
+    {
+      "text" : "HexaUI",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "HexaUI"
+    }
+  ],
+  "identifier" : "doc:\/\/HexaUI\/documentation\/HexaUI\/HexaUI",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "HexaUI"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "HexaUI",
+  "type" : "topic",
+  "url" : "\/documentation\/hexaui\/hexaui"
+},
+"doc://HexaUI/documentation/HexaUI/HexaUI/hexa": {
+  "abstract" : [
+    {
+      "text" : "Hexa",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "let"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "hexa"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:4HexaAAC",
+      "text" : "Hexa"
+    }
+  ],
+  "identifier" : "doc:\/\/HexaUI\/documentation\/HexaUI\/HexaUI\/hexa",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "hexa",
+  "type" : "topic",
+  "url" : "\/documentation\/hexaui\/hexaui\/hexa"
+}
+}
+}
