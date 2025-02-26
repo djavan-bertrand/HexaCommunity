@@ -18,6 +18,7 @@ let package = Package(
             targets: ["HexaUI"]),
     ],
     dependencies: [
+        .package(url: "https://github.com/kishikawakatsumi/KeychainAccess.git", from: "4.2.0"),
         .package(url: "https://github.com/swiftlang/swift-docc-plugin", from: "1.1.0"),
     ],
     targets: [
@@ -33,7 +34,10 @@ let package = Package(
                 "HexaCore",
             ]),
         .target(
-            name: "HexaCore"
-            )
+            name: "HexaCore",
+            dependencies: [
+                "KeychainAccess"
+            ]
+        )
     ]
 )
