@@ -1,90 +1,95 @@
 {
-  "includedArchiveIdentifiers" : [
-    "Hexa",
-    "HexaUI"
-  ],
-  "interfaceLanguages" : {
-    "swift" : [
-      {
-        "children" : [
-          {
-            "children" : [
-              {
-                "title" : "Classes",
-                "type" : "groupMarker"
-              },
-              {
+    "includedArchiveIdentifiers" : [
+        "hexacommunity.Hexa",
+        "hexacommunity.HexaUI"
+    ],
+    "interfaceLanguages" : {
+        "swift" : [
+            {
                 "children" : [
-                  {
-                    "title" : "Initializers",
-                    "type" : "groupMarker"
-                  },
-                  {
-                    "path" : "\/documentation\/hexa\/hexa\/init()",
-                    "title" : "init()",
-                    "type" : "init"
-                  },
-                  {
-                    "title" : "Instance Properties",
-                    "type" : "groupMarker"
-                  },
-                  {
-                    "path" : "\/documentation\/hexa\/hexa\/apublicproperty",
-                    "title" : "let aPublicProperty: String",
-                    "type" : "property"
-                  }
+                    {
+                        "children" : [
+                            {
+                                "title" : "Classes",
+                                "type" : "groupMarker"
+                            },
+                            {
+                                "children" : [
+                                    {
+                                        "title" : "Initializers",
+                                        "type" : "groupMarker"
+                                    },
+                                    {
+                                        "path" : "\/documentation\/hexa\/hexa\/init()",
+                                        "title" : "init()",
+                                        "type" : "init"
+                                    },
+                                    {
+                                        "title" : "Instance Properties",
+                                        "type" : "groupMarker"
+                                    },
+                                    {
+                                        "path" : "\/documentation\/hexa\/hexa\/apublicproperty",
+                                        "title" : "let aPublicProperty: String",
+                                        "type" : "property"
+                                    },
+                                    {
+                                        "path" : "\/documentation\/hexa\/hexa\/apublicproperty2",
+                                        "title" : "let aPublicProperty2: String",
+                                        "type" : "property"
+                                    }
+                                ],
+                                "path" : "\/documentation\/hexa\/hexa",
+                                "title" : "Hexa",
+                                "type" : "class"
+                            }
+                        ],
+                        "path" : "\/documentation\/hexa",
+                        "title" : "Hexa",
+                        "type" : "module"
+                    },
+                    {
+                        "children" : [
+                            {
+                                "title" : "Classes",
+                                "type" : "groupMarker"
+                            },
+                            {
+                                "children" : [
+                                    {
+                                        "title" : "Instance Properties",
+                                        "type" : "groupMarker"
+                                    },
+                                    {
+                                        "path" : "\/documentation\/hexaui\/hexaui\/hexa",
+                                        "title" : "let hexa: Hexa",
+                                        "type" : "property"
+                                    },
+                                    {
+                                        "path" : "\/documentation\/hexaui\/hexaui\/hexacore",
+                                        "title" : "let hexaCore: HexaCore",
+                                        "type" : "property"
+                                    }
+                                ],
+                                "path" : "\/documentation\/hexaui\/hexaui",
+                                "title" : "HexaUI",
+                                "type" : "class"
+                            }
+                        ],
+                        "path" : "\/documentation\/hexaui",
+                        "title" : "HexaUI",
+                        "type" : "module"
+                    }
                 ],
-                "path" : "\/documentation\/hexa\/hexa",
-                "title" : "Hexa",
-                "type" : "class"
-              }
-            ],
-            "path" : "\/documentation\/hexa",
-            "title" : "Hexa",
-            "type" : "module"
-          },
-          {
-            "children" : [
-              {
-                "title" : "Classes",
-                "type" : "groupMarker"
-              },
-              {
-                "children" : [
-                  {
-                    "title" : "Instance Properties",
-                    "type" : "groupMarker"
-                  },
-                  {
-                    "path" : "\/documentation\/hexaui\/hexaui\/hexa",
-                    "title" : "let hexa: Hexa",
-                    "type" : "property"
-                  },
-                  {
-                    "path" : "\/documentation\/hexaui\/hexaui\/hexacore",
-                    "title" : "let hexaCore: HexaCore",
-                    "type" : "property"
-                  }
-                ],
-                "path" : "\/documentation\/hexaui\/hexaui",
-                "title" : "HexaUI",
-                "type" : "class"
-              }
-            ],
-            "path" : "\/documentation\/hexaui",
-            "title" : "HexaUI",
-            "type" : "module"
-          }
-        ],
-        "path" : "\/documentation",
-        "title" : "HexaCommunity",
-        "type" : "module"
-      }
-    ]
-  },
-  "schemaVersion" : {
-    "major" : 0,
-    "minor" : 1,
-    "patch" : 2
-  }
+                "path" : "\/documentation",
+                "title" : "HexaCommunity",
+                "type" : "module"
+            }
+        ]
+    },
+    "schemaVersion" : {
+        "major" : 0,
+        "minor" : 1,
+        "patch" : 2
+    }
 }
