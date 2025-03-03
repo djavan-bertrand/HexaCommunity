@@ -6,8 +6,6 @@ xcodebuild docbuild \
     -destination 'generic/platform=iOS' \
     -derivedDataPath ./docs_build_files
 
-(xcrun --find docc) process-archive transform-for-static-hosting \
-    "docs_build_files/Build/Products/Debug-iphoneos/Hexa.doccarchive" \
-    "docs_build_files/Build/Products/Debug-iphoneos/HexaUI.doccarchive" \
-    --hosting-base-path $REPO_NAME
+$(xcrun --find docc) process-archive transform-for-static-hosting "docs_build_files/Build/Products/Debug-iphoneos/Hexa.doccarchive" \
+    --hosting-base-path $REPO_NAME \
     --output-path ./docs

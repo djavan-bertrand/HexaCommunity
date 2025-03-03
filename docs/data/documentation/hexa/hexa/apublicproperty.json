@@ -8,14 +8,14 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Hexa\/documentation\/Hexa",
-        "doc:\/\/Hexa\/documentation\/Hexa\/Hexa"
+        "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa",
+        "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty"
+    "url" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -61,7 +61,7 @@
             "swift"
           ],
           "platforms" : [
-            "macOS"
+            "iOS"
           ],
           "tokens" : [
             {
@@ -113,18 +113,18 @@
   ]
 , 
 "references": {
-"doc://Hexa/documentation/Hexa": {
+"doc://hexacommunity.Hexa/documentation/Hexa": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "Hexa",
   "type" : "topic",
   "url" : "\/documentation\/hexa"
 },
-"doc://Hexa/documentation/Hexa/Hexa": {
+"doc://hexacommunity.Hexa/documentation/Hexa/Hexa": {
   "abstract" : [
     {
       "text" : "Hexa",
@@ -145,7 +145,7 @@
       "text" : "Hexa"
     }
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -158,7 +158,7 @@
   "type" : "topic",
   "url" : "\/documentation\/hexa\/hexa"
 },
-"doc://Hexa/documentation/Hexa/Hexa/aPublicProperty": {
+"doc://hexacommunity.Hexa/documentation/Hexa/Hexa/aPublicProperty": {
   "abstract" : [
     {
       "text" : "Public property",
@@ -188,7 +188,7 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "aPublicProperty",

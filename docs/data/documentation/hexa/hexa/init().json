@@ -8,14 +8,14 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Hexa\/documentation\/Hexa",
-        "doc:\/\/Hexa\/documentation\/Hexa\/Hexa"
+        "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa",
+        "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/init()"
+    "url" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/init()"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -48,7 +48,7 @@
             "swift"
           ],
           "platforms" : [
-            "macOS"
+            "iOS"
           ],
           "tokens" : [
             {
@@ -87,18 +87,18 @@
   ]
 , 
 "references": {
-"doc://Hexa/documentation/Hexa": {
+"doc://hexacommunity.Hexa/documentation/Hexa": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "Hexa",
   "type" : "topic",
   "url" : "\/documentation\/hexa"
 },
-"doc://Hexa/documentation/Hexa/Hexa": {
+"doc://hexacommunity.Hexa/documentation/Hexa/Hexa": {
   "abstract" : [
     {
       "text" : "Hexa",
@@ -119,7 +119,7 @@
       "text" : "Hexa"
     }
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -132,7 +132,7 @@
   "type" : "topic",
   "url" : "\/documentation\/hexa\/hexa"
 },
-"doc://Hexa/documentation/Hexa/Hexa/init()": {
+"doc://hexacommunity.Hexa/documentation/Hexa/Hexa/init()": {
   "abstract" : [
     {
       "text" : "Consssssstructor",
@@ -149,7 +149,7 @@
       "text" : "()"
     }
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/init()",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/init()",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init()",
