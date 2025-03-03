@@ -99,8 +99,7 @@
       "anchor" : "Instance-Properties",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty",
-        "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty2"
+        "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty"
       ],
       "title" : "Instance Properties"
     }
@@ -200,43 +199,6 @@
   "title" : "aPublicProperty",
   "type" : "topic",
   "url" : "\/documentation\/hexa\/hexa\/apublicproperty"
-},
-"doc://hexacommunity.Hexa/documentation/Hexa/Hexa/aPublicProperty2": {
-  "abstract" : [
-    {
-      "text" : "Public property",
-      "type" : "text"
-    }
-  ],
-  "fragments" : [
-    {
-      "kind" : "keyword",
-      "text" : "let"
-    },
-    {
-      "kind" : "text",
-      "text" : " "
-    },
-    {
-      "kind" : "identifier",
-      "text" : "aPublicProperty2"
-    },
-    {
-      "kind" : "text",
-      "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:SS",
-      "text" : "String"
-    }
-  ],
-  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty2",
-  "kind" : "symbol",
-  "role" : "symbol",
-  "title" : "aPublicProperty2",
-  "type" : "topic",
-  "url" : "\/documentation\/hexa\/hexa\/apublicproperty2"
 },
 "doc://hexacommunity.Hexa/documentation/Hexa/Hexa/init()": {
   "abstract" : [

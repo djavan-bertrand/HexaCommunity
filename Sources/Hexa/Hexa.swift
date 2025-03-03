@@ -7,8 +7,6 @@ public class Hexa {
     let anInternalProperty: String = "Hello, world!"
     /// Public property
     public let aPublicProperty: String = "Hello, world!"
-    /// Public property
-    public let aPublicProperty2: String = "Hello, world!"
 
     /// Consssssstructor
     public init() { }
