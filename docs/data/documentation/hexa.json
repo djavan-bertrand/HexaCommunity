@@ -8,7 +8,7 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Hexa\/documentation\/Hexa"
+    "url" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -36,7 +36,7 @@
       "anchor" : "Classes",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Hexa\/documentation\/Hexa\/Hexa"
+        "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa"
       ],
       "title" : "Classes"
     }
@@ -55,18 +55,18 @@
   ]
 , 
 "references": {
-"doc://Hexa/documentation/Hexa": {
+"doc://hexacommunity.Hexa/documentation/Hexa": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "Hexa",
   "type" : "topic",
   "url" : "\/documentation\/hexa"
 },
-"doc://Hexa/documentation/Hexa/Hexa": {
+"doc://hexacommunity.Hexa/documentation/Hexa/Hexa": {
   "abstract" : [
     {
       "text" : "Hexa",
@@ -87,7 +87,7 @@
       "text" : "Hexa"
     }
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa",
   "kind" : "symbol",
   "navigatorTitle" : [
     {

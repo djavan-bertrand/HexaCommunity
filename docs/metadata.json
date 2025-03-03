@@ -1,6 +1,6 @@
 {
   "bundleDisplayName" : "Hexa",
-  "bundleID" : "Hexa",
+  "bundleIdentifier" : "hexacommunity.Hexa",
   "schemaVersion" : {
     "major" : 0,
     "minor" : 1,

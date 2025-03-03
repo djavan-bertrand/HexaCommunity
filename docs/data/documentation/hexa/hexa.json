@@ -8,13 +8,13 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Hexa\/documentation\/Hexa"
+        "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa"
+    "url" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -57,7 +57,7 @@
             "swift"
           ],
           "platforms" : [
-            "macOS"
+            "iOS"
           ],
           "tokens" : [
             {
@@ -91,7 +91,7 @@
       "anchor" : "Initializers",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/init()"
+        "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/init()"
       ],
       "title" : "Initializers"
     },
@@ -99,7 +99,7 @@
       "anchor" : "Instance-Properties",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty"
+        "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty"
       ],
       "title" : "Instance Properties"
     }
@@ -118,18 +118,18 @@
   ]
 , 
 "references": {
-"doc://Hexa/documentation/Hexa": {
+"doc://hexacommunity.Hexa/documentation/Hexa": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "Hexa",
   "type" : "topic",
   "url" : "\/documentation\/hexa"
 },
-"doc://Hexa/documentation/Hexa/Hexa": {
+"doc://hexacommunity.Hexa/documentation/Hexa/Hexa": {
   "abstract" : [
     {
       "text" : "Hexa",
@@ -150,7 +150,7 @@
       "text" : "Hexa"
     }
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -163,7 +163,7 @@
   "type" : "topic",
   "url" : "\/documentation\/hexa\/hexa"
 },
-"doc://Hexa/documentation/Hexa/Hexa/aPublicProperty": {
+"doc://hexacommunity.Hexa/documentation/Hexa/Hexa/aPublicProperty": {
   "abstract" : [
     {
       "text" : "Public property",
@@ -193,14 +193,14 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/aPublicProperty",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "aPublicProperty",
   "type" : "topic",
   "url" : "\/documentation\/hexa\/hexa\/apublicproperty"
 },
-"doc://Hexa/documentation/Hexa/Hexa/init()": {
+"doc://hexacommunity.Hexa/documentation/Hexa/Hexa/init()": {
   "abstract" : [
     {
       "text" : "Consssssstructor",
@@ -217,7 +217,7 @@
       "text" : "()"
     }
   ],
-  "identifier" : "doc:\/\/Hexa\/documentation\/Hexa\/Hexa\/init()",
+  "identifier" : "doc:\/\/hexacommunity.Hexa\/documentation\/Hexa\/Hexa\/init()",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init()",
