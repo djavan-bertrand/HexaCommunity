@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HexaSDK'
-  s.version          = '1.3.1'
+  s.version          = '1.3.2'
   s.summary          = 'Modular Swift SDK to interact with Hexa backend services.'
   s.description      = <<-DESC
     HexaSDK is a modular Swift SDK providing secure persistence, networking,
