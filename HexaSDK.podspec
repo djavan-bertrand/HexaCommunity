@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HexaSDK'
-  s.version          = '1.0.0'
+  s.version          = '1.3.1'
   s.summary          = 'Modular Swift SDK to interact with Hexa backend services.'
   s.description      = <<-DESC
     HexaSDK is a modular Swift SDK providing secure persistence, networking,
@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   DESC
 
   s.homepage         = 'https://github.com/djavan-bertrand/HexaCommunity'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+                            s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
   s.author           = { 'Hexa Community' => 'contact@hexa-community.com' }
   s.source           = { :git => 'https://github.com/djavan-bertrand/HexaCommunity.git', :tag => s.version.to_s }
 
@@ -29,5 +29,5 @@ Pod::Spec.new do |s|
   # External dependencies
   s.dependency 'KeychainAccess', '~> 4.2'
   s.dependency 'SwiftProtobuf', '~> 1.20'
-  s.dependency 'gRPC-Swift', '~> 1.23'
+  s.dependency 'gRPC-Swift', '~> 1.8.0'
 end
