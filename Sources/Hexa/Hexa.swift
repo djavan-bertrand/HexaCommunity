@@ -1,6 +1,8 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
+import HexaCore
+
 /// Hexa
 public class Hexa {
     /// Internal property
@@ -9,6 +11,8 @@ public class Hexa {
     public let aPublicProperty: String = "Hello, world!"
     /// Public property 2
     public let aPublicProperty2: String = "Hello, world!"
+
+    public let core = HexaCore()
 
     /// Consssssstructor
     public init() { }

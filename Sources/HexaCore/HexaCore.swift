@@ -6,12 +6,22 @@
 //
 
 import KeychainAccess
+import SwiftProtobuf
 
 /// HexaCore
 public class HexaCore {
     /// The keychain
     let keychain = Keychain(service: "com.hexa.community")
 
+    private let test: Com_Hexacommunity_TestResponse
+    public var testResponseValue: String {
+        test.value
+    }
+
     /// Constructor
-    public init() {}
+    public init() {
+        test = .with {
+            $0.value = "Hello, World!"
+        }
+    }
 }

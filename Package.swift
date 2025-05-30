@@ -19,6 +19,8 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/kishikawakatsumi/KeychainAccess.git", from: "4.2.0"),
+        .package(url: "https://github.com/apple/swift-protobuf.git", .upToNextMajor(from: "1.20.0")),
+        .package(url: "https://github.com/grpc/grpc-swift.git", from: "1.23.0"),
         .package(url: "https://github.com/swiftlang/swift-docc-plugin", from: "1.1.0"),
     ],
     targets: [
@@ -36,7 +38,9 @@ let package = Package(
         .target(
             name: "HexaCore",
             dependencies: [
-                "KeychainAccess"
+                "KeychainAccess",
+                .product(name: "SwiftProtobuf", package: "swift-protobuf"),
+                .product(name: "GRPC", package: "grpc-swift"),
             ]
         )
     ]
