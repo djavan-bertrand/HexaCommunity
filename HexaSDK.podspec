@@ -12,8 +12,8 @@ Pod::Spec.new do |s|
   s.author           = { 'Hexa Community' => 'contact@hexa-community.com' }
   s.source           = { :git => 'https://github.com/djavan-bertrand/HexaCommunity.git', :tag => s.version.to_s }
 
-  s.platform         = :ios, '13.0'
-  s.swift_version    = '6.0'
+  s.platform         = :ios, '14.0'
+  s.swift_version    = '5.9'
   s.requires_arc     = true
 
   s.source_files     = 'Sources/**/*.{swift,h,m}'
